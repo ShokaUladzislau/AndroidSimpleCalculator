@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Basic Calculator</string>
+    <string name="edit_text_hint">0</string>
+    <string name="clear_button_text">Clear</string>
+    <string name="divide_button_text">&#247;</string>
+    <string name="button9_text">9</string>
+    <string name="button8_text">8</string>
+    <string name="button7_text">7</string>
+    <string name="multiplyButton_text">&#215;</string>
+    <string name="button4_text">4</string>
+    <string name="button5_text">5</string>
+    <string name="button6_text">6</string>
+    <string name="subtractButton_text">-</string>
+    <string name="button1_text">1</string>
+    <string name="button2_text">2</string>
+    <string name="button3_text">3</string>
+    <string name="addButton_text">+</string>
+    <string name="button0_text">0</string>
+    <string name="dotButton_text">.</string>
+    <string name="equalButton_text">=</string>
+</resources>
